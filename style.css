@@ -54,3 +54,7 @@ li:hover{
 .image{
     width: 500px;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
