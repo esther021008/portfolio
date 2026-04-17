@@ -136,6 +136,16 @@ h2{
     box-shadow: 0 0 20px blue;
 }
 
+.project{
+display: flex;
+flex-direction: column;
+gap: 50px;
+justify-content: center;
+}
+.my_project{
+
+}
+
 
 
 
